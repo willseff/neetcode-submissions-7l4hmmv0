@@ -26,6 +26,9 @@ class Solution:
                 res = max(islandSize, res)
         
         return res
+        
+        
+# time 20:06 min
 
         
         
